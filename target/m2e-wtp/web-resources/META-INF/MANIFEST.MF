@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Time: 
+Build-Jdk: 1.7.0_80
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+

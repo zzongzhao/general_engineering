@@ -1,0 +1,6 @@
+2016-05-06 15:44:37.693 [main] DEBUG com.asiainfo.general.dao.UserVOMapper.selectByPrimaryKey [139] - ==>  Preparing: select id, user_name, password, age from user_t where id = ? 
+2016-05-06 15:44:37.973 [main] DEBUG com.asiainfo.general.dao.UserVOMapper.selectByPrimaryKey [139] - ==> Parameters: 1(Integer)
+2016-05-06 15:44:38.219 [main] DEBUG com.asiainfo.general.dao.UserVOMapper.selectByPrimaryKey [139] - <==      Total: 1
+2016-05-06 16:30:13.611 [main] DEBUG com.asiainfo.general.dao.UserVOMapper.selectByPrimaryKey [139] - ==>  Preparing: select id, user_name, password, age from user_t where id = ? 
+2016-05-06 16:30:13.893 [main] DEBUG com.asiainfo.general.dao.UserVOMapper.selectByPrimaryKey [139] - ==> Parameters: 1(Integer)
+2016-05-06 16:30:14.113 [main] DEBUG com.asiainfo.general.dao.UserVOMapper.selectByPrimaryKey [139] - <==      Total: 1
